@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student in Astronomy
+role: PhD Student in Space science & Technology
 
 # Organizations/Affiliations to display in Biography block
 organizations:
@@ -41,7 +41,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/YourGoogleScholarID
   - icon: academicons/orcid
-    url: https://orcid.org/YourORCIDID
+    url: https://orcid.org/0000-0001-6026-9202
 
 interests:
   - Exoplanetary Systems
