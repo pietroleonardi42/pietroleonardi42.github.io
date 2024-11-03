@@ -45,28 +45,28 @@ profiles:
 
 interests:
   - Exoplanetary Systems
-  - N-body Integrators
+  - Secular Timing effects
   - Transit Timing Variations (TTV)
 
 education:
   - area: PhD in Astronomy
     institution: University of Padova
-    date_start: 2022-01-01
+    date_start: 2022-11-01
     date_end: ''
     summary: |
       Research on exoplanet timing techniques, focusing on transit time variation methods. Supervised by [Prof. Giampaolo Piotto](https://www.dfa.unipd.it/).
   - area: MSc in Astronomy
     institution: University of YourMasterInstitution
-    date_start: 2018-01-01
-    date_end: 2021-12-31
+    date_start: 2019-09-01
+    date_end: 2021-12-14
     summary: |
-      Thesis on _Characterizing Multiple Planetary Systems with N-body Integrators_.
+      Thesis on _Ground-based follow-up of WASP-12b_.
 
 work:
   - position: PhD Researcher
     company_name: Astronomy Department, University of Padova
     company_url: https://www.dfa.unipd.it/
-    date_start: 2022-01-01
+    date_start: 2022-10-01
     date_end: ''
     summary: |2-
       Responsibilities include:
