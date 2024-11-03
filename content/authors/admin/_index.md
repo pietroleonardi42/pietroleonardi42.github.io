@@ -37,7 +37,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/YourGitHubUsername
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/YourLinkedInUsername/
+    url: https://www.linkedin.com/in/pietro-leonardi-34812ba3/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/YourGoogleScholarID
   - icon: academicons/orcid

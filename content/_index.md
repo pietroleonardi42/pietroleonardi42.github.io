@@ -24,9 +24,9 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: planet.png
+          filename: amazing.png
           filters:
-            brightness: 0.35
+            brightness: 0.3
           size: cover
           position: center
           parallax: false
