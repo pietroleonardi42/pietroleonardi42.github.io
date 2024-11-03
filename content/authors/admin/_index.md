@@ -30,16 +30,16 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:pietro.leonardi.1@studenti.unipd.it'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/YourTwitterHandle
+  #- icon: brands/x
+  #  url: https://twitter.com/YourTwitterHandle
   - icon: brands/github
-    url: https://github.com/YourGitHubUsername
+    url: https://github.com/pietroleonardi42
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/pietro-leonardi-34812ba3/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/YourGoogleScholarID
+    url: https://scholar.google.com/citations?user=6IvRt_QAAAAJ&hl=it
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-6026-9202
 
