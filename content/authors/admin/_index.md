@@ -116,6 +116,6 @@ awards:
       Awarded for a research paper on analyzing stellar activity in exoplanetary systems using HARPS-N data.
 ---
 
-## About Me
+## Welcome!
 
 Pietro Leonardi is a PhD student in the Astronomy Department at the University of Padova, focusing on exoplanet timing techniques and transit time variation (TTV) methods. He is supervised by Professor Giampaolo Piotto. Pietro’s work involves studying the dynamics and characterizing multiple planetary systems, including the photometric follow-up of systems like V1298 Tau using various ground and space-based telescopes.
