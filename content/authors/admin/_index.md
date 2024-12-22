@@ -24,8 +24,8 @@ role: PhD Student in Space science & Technology
 
 # Organizations/Affiliations to display in Biography block
 organizations:
-  - name: Astronomy Department, University of Padova
-    url: https://www.dfa.unipd.it/
+  - name: Università degli studi di Padova - Università di Trento
+    url: https://www.unitn.it/phd-sst/
 
 # Social network links
 profiles:
@@ -46,26 +46,27 @@ profiles:
 interests:
   - Exoplanetary Systems
   - Secular Timing effects
-  - Transit Timing Variations (TTV)
+  - Transit Timing Variations (TTVs)
+  - Radial Velocities (RVs)
 
 education:
-  - area: PhD in Astronomy
-    institution: University of Padova
+  - area: PhD in Space Science and Technology
+    institution: Università degli studi di Padova - Universitò di Trento
     date_start: 2022-11-01
-    date_end: ''
+    date_end: '2025-10-31'
     summary: |
-      Research on exoplanet timing techniques, focusing on transit time variation methods. Supervised by [Prof. Giampaolo Piotto](https://www.dfa.unipd.it/).
+      Research on exoplanet timing techniques, focusing on transit time variation methods and Radial velocities. Supervised by [Prof. Giampaolo Piotto](https://www.dfa.unipd.it/).
   - area: MSc in Astronomy
-    institution: University of YourMasterInstitution
+    institution: Università degli studi di Padova
     date_start: 2019-09-01
     date_end: 2021-12-14
     summary: |
-      Thesis on _Ground-based follow-up of WASP-12b_.
+      Thesis on Ground-based follow-up of WASP-12b.
 
 work:
   - position: PhD Researcher
     company_name: Università degli studi Padova - Università di Trento
-    company_url: https://www.dfa.unipd.it/
+    company_url: https://www.unitn.it/phd-sst/
     date_start: 2022-10-01
     date_end: ''
     summary: |2-
