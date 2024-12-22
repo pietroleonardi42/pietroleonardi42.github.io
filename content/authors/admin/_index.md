@@ -120,4 +120,4 @@ awards:
 ## Welcome!
 
 My name is Pietro Leonardi, and I am a PhD student at the University of Padua and the University of Trento. My research focuses on the synergy between extreme precision Radial Velocities (RVs) and Transit Timing Variations (TTVs) to investigate planetary system architectures and dynamical processes.
-I am also a CHEOPS collaborator, actively working on multi-planet systems and studying apsidal precession phenomena.
+As a CHEOPS collaborator, I am actively working on multi-planet systems and studying apsidal precession phenomena.
