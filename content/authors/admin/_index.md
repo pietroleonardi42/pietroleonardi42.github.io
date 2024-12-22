@@ -64,7 +64,7 @@ education:
 
 work:
   - position: PhD Researcher
-    company_name: Astronomy Department, University of Padova
+    company_name: Università degli studi Padova - Università di Trento
     company_url: https://www.dfa.unipd.it/
     date_start: 2022-10-01
     date_end: ''
