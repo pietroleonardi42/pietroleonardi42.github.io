@@ -55,9 +55,10 @@ education:
     date_start: 2022-11-01
     date_end: '2025-10-31'
     summary: |
-      Preliminary thesis title: Characterization of exoplanetary systems through transit timing techniques and Radial velocities: from secular perturbations to mass measurement 
+      Preliminary thesis title: 
+      Characterization of exoplanetary systems through transit timing techniques and Radial velocities: from secular perturbations to mass measurement 
       
-      Supervised by Prof. Giampaolo Piotto, Dr. Valerio Nascimbeni and Dr. Luca Borsato(http://groups.dfa.unipd.it/ESPG/).
+      Supervised by Prof. Giampaolo Piotto, Dr. Valerio Nascimbeni and Dr. Luca Borsato (http://groups.dfa.unipd.it/ESPG/).
   - area: MSc in Astrophysics and Cosmology
     institution: Università degli studi di Padova
     date_start: 2019-10-01
