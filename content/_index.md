@@ -37,7 +37,7 @@ sections:
       text: |-
         Exoplanet research has revolutionized our understanding of planetary systems, revealing their diversity and complexity. My work focuses on the synergy between Radial Velocities (RVs) and Transit Timing Variations (TTVs) to study planetary architectures and dynamics. I have investigated tidal orbital decay in close-in planets, developed methods for exomoon detection, and conducted RV+TTV analyses of multi-planet systems to constrain their orbital configurations and formation history. Additionally, I apply advanced techniques to mitigate stellar activity noise in RV measurements, enabling the precise study of young, active systems. Through CHEOPS GTO observations, I am measuring apsidal precession rates of hot Jupiters to probe their interior structure and tidal properties.
     design:
-      columns: '1'
+      columns: '1.5'
   #- block: collection
   #  id: papers
   #  content:
