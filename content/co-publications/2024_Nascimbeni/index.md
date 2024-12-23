@@ -3,7 +3,7 @@ title: "The K2-24 planetary system revisited by CHEOPS"
 authors:
 - V. Nascimbeni
 - L. Borsato
-- Pietro Leonardi
+- admin
 - et al.
 author_notes:
 - "Equal contribution"
