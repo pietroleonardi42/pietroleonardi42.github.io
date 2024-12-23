@@ -59,7 +59,7 @@ sections:
       text: ""
       filters:
         folders:
-          - first-publication
+          - first-publications
         exclude_featured: false
     design:
       view: citation
