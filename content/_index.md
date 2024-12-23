@@ -59,7 +59,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - first-publication
         exclude_featured: false
     design:
       view: citation
@@ -69,7 +69,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - co-publication
         exclude_featured: false
     design:
       view: citation
