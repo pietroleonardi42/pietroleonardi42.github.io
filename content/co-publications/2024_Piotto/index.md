@@ -5,7 +5,7 @@ authors:
 - T. Zingales
 - L. Borsato
 - et al.
-- inc(Pietro Leonardi)
+- admin
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: https://academic.oup.com/mnras/article-pdf/535/3/2763/60796350/stae2440.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
