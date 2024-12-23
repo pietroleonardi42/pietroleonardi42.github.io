@@ -55,7 +55,17 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: First-author Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+    - block: collection
+    content:
+      title: Co-author Publications
       text: ""
       filters:
         folders:
