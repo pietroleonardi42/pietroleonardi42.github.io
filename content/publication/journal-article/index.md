@@ -1,12 +1,12 @@
 ---
-title: "An example journal article"
+title: " TASTE V. A new ground-based investigation of orbital decay in the ultra-hot Jupiter WASP-12b "
 authors:
 - admin
-- Robert Ford
+#- Pietro Leonardi
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2024-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,13 +18,14 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Astronomy and Astrophysics, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:
+The discovery of the first transiting hot Jupiters (HJs), giant planets on orbital periods shorter than P ~ 10 days, was announced more than 20 years ago. As both ground- and space-based follow-up observations are piling up, we are approaching the temporal baseline required to detect secular variations in their orbital parameters. In particular, several recent studies have focused on constraining the efficiency of the tidal decay mechanism to better understand the evolutionary timescales of HJ migration and engulfment. This can be achieved by measuring a monotonic decrease in orbital period dP/dt < 0 due to mechanical energy being dissipated by tidal friction. WASP-12b was the first HJ for which a tidal decay scenario appeared convincing, even though alternative explanations have been hypothesized. Here we present a new analysis based on 28 unpublished high-precision transit light curves gathered over a 12-yr baseline and combined with all the available archival data, and an updated set of stellar parameters from HARPS-N high-resolution spectra, which are consistent with a main-sequence scenario, close to the hydrogen exhaustion in the core. Our values of dP/dt = −30.72 ± 2.67 and Q′* = (2.13 ± 0.18) × 105 are statistically consistent with previous studies, and indicate that WASP-12 is undergoing fast tidal dissipation. We additionally report the presence of excess scatter in the timing data and discuss its possible origin. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -33,8 +34,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.aanda.org/articles/aa/pdf/2024/06/aa48363-23.pdf
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -44,8 +45,8 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+image: wasp12b.png/png
+  caption: 'Image credit: [**NASA**](http://hubblesite.org/newscenter/archive/releases/2010/15/)'
   focal_point: ""
   preview_only: false
 
