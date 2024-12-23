@@ -2,6 +2,7 @@
 title: " TASTE V. A new ground-based investigation of orbital decay in the ultra-hot Jupiter WASP-12b "
 authors:
 - admin
+- et al.
 #- Pietro Leonardi
 author_notes:
 - "Equal contribution"
