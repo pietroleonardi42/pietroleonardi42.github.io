@@ -69,7 +69,7 @@ sections:
       text: ""
       filters:
         folders:
-          - co-publication
+          - co-publications
         exclude_featured: false
     design:
       view: citation
