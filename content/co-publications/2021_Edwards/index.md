@@ -3,7 +3,7 @@ title: "Characterizing a world within the hot-neptune desert: Transit observatio
 authors:
 - Billy Edwards
 - et al.
-- inc.( admin )
+- admin
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
