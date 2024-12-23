@@ -63,7 +63,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-    - block: collection
+  - block: collection
     content:
       title: Co-author Publications
       text: ""
