@@ -55,14 +55,19 @@ education:
     date_start: 2022-11-01
     date_end: '2025-10-31'
     summary: |
-      Research on exoplanet timing techniques, focusing on transit time variation methods and Radial velocities. Supervised by [Prof. Giampaolo Piotto](https://www.dfa.unipd.it/).
-  - area: MSc in Astronomy
+      Preliminary thesis title: Characterization of exoplanetary systems through transit timing techniques and Radial velocities: from secular perturbations to mass measurement 
+      
+      Supervised by Prof. Giampaolo Piotto, Dr. Valerio Nascimbeni and Dr. Luca Borsato(http://groups.dfa.unipd.it/ESPG/).
+  - area: MSc in Astrophysics and Cosmology
     institution: Università degli studi di Padova
-    date_start: 2019-09-01
+    date_start: 2019-10-01
     date_end: 2021-12-14
     summary: |
-      Thesis on Ground-based follow-up of WASP-12b.
-
+      Thesis on Ground-based follow-up of WASP-12b
+  - area: BSc in Astronomt
+    institution: Università di Bologna
+    date_start: 2016-09-19
+    date_end: 2019-09-19
 work:
   - position: PhD Researcher
     company_name: Università degli studi Padova - Università di Trento
@@ -87,7 +92,7 @@ skills:
         description: ''
         percent: 80
         icon: atom
-      - name: Data Reduction
+      - name: Photometric and Spectrosopic Data Reduction
         description: ''
         percent: 85
         icon: database
@@ -109,12 +114,12 @@ languages:
     percent: 100
 
 # Awards
-awards:
-  - title: Best Research Paper Award
-    date: '2023-10-15'
-    awarder: Your Awarding Institution
-    summary: |
-      Awarded for a research paper on analyzing stellar activity in exoplanetary systems using HARPS-N data.
+#awards:
+#  - title: Best Research Paper Award
+#    date: '2023-10-15'
+#    awarder: Your Awarding Institution
+#    summary: |
+#      Awarded for a research paper on analyzing stellar activity in exoplanetary systems using HARPS-N data.
 ---
 
 ## Welcome!
