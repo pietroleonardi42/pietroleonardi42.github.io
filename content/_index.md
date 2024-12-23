@@ -54,7 +54,7 @@ sections:
   #    view: article-grid
   #    columns: 2
   - block: collection
-    id: Publications
+    id: publications
     content:
       title: First-author Publications
       text: ""
