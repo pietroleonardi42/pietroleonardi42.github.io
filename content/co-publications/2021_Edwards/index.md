@@ -2,8 +2,9 @@
 title: "Characterizing a world within the hot-neptune desert: Transit observations of LTT 9779 b with the Hubble space telescope/WFC3"
 authors:
 - Billy Edwards
-- et al.
+- ...
 - admin
+- et al.
 author_notes:
 - "Equal contribution"
 - "Equal contribution"

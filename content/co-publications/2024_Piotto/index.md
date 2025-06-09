@@ -4,8 +4,9 @@ authors:
 - G. Piotto
 - T. Zingales
 - L. Borsato
-- et al.
+- ...
 - admin
+- et al.
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
