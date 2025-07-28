@@ -1,5 +1,5 @@
 ---
-title: 'Transit Timing Variations in HIP41378 : CHEOPS and TESS probe the architecture of a six-planet system'
+title: 'Transit Timing Variations in HIP41378: CHEOPS and TESS probe the architecture of a six-planet system'
 
 event:  Detection and Dynamics of Exoplanets (DDE) -- Interplay between theory and observations
 event_url: https://indico.global/event/8940/overview
