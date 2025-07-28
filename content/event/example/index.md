@@ -11,7 +11,7 @@ abstract: In multi-planet systems, gravitational interactions can induce transit
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-06-24T13:00:00Z'
+date: '2025-06-24'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -27,7 +27,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: '
+  caption: 'Image credit: Valentina Granata'
   focal_point: Right
 #links:
 #  - icon: twitter
@@ -53,7 +53,7 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects:
   - example
----
+
 
 #{{% callout note %}}
 #Click on the **Slides** button above to view the built-in slides feature.
@@ -66,3 +66,4 @@ projects:
 #- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
 #Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+---
