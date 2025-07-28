@@ -49,38 +49,10 @@ sections:
         image:
           filename: research_plot1.jpg
           filters:
-            brightness: 0.35
+            brightness: 0.85
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    id: cheops
-    content:
-      title: ''
-      subtitle: ''
-      text: |-
-      <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
-
-        <div style="flex: 1; min-width: 280px; max-width: 400px;">
-          <img src="research_plot.jpg" alt="CHEOPS spacecraft" style="width: 100%; border-radius: 8px;">
-          <p style="font-size: 0.8rem; font-style: italic; margin-top: 0.5rem;">
-            Credit: ESA / ATG medialab (<a href="#" style="color: inherit;">link</a>)
-          </p>
-        </div>
-
-        <div style="flex: 2; min-width: 300px;">
-          <h2 style="font-size: 1.8rem; margin-bottom: 1rem;">REFINING EXOPLANET RADII WITH <em>CHEOPS</em></h2>
-
-          <p>
-            I am working as a part of the <em>CHEOPS</em> consortium in several working groups aiming to utilise the ultra-high precision photometry of the instrument to refine exoplanet radii.
-          </p>
-
-          <p>
-            Observations are currently being taken in order to provide data that will help us answer questions about the orbital configuration, internal structure, and atmospheres of these planets.
-          </p>
-        </div>
-
-      </div>
   #- block: collection
   #  id: papers
   #  content:
