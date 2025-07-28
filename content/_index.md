@@ -36,23 +36,22 @@ sections:
       title: '📚-🪐 My Research'
       subtitle: ''
       text: |-
-  <div style="display: flex; align-items: center; gap: 2rem;">
+        <div style="display: flex; align-items: center; gap: 2rem;">
 
-    <img src="/media/research-plot.png" alt="Research Image" style="width: 35%; max-width: 300px; border-radius: 8px;">
+        <img src="/media/research-plot.png" alt="Research Image" style="width: 35%; max-width: 300px; border-radius: 8px;">
 
-    <div>
-      <p>
-        Exoplanet research has reshaped our understanding of planetary systems, uncovering a vast diversity in their architectures and evolution. My work centers on the synergy between Radial Velocities (RVs) and Transit Timing Variations (TTVs) to investigate planetary dynamics, mass distributions, and formation pathways.
-      </p>
-      <p>
-        I’ve studied tidal orbital decay in close-in planets, explored methods for detecting exomoons, and performed joint RV+TTV analyses to constrain the orbital configurations of multi-planet systems. To address the challenges of observing young stars, I also apply advanced stellar activity mitigation techniques to extract planetary signals from noisy RV datasets.
-      </p>
-      <p>
-        As PI of a CHEOPS GTO program (190 orbits, PR150089), I am currently measuring apsidal precession rates in eccentric hot Jupiters to probe their internal structure and tidal dissipation properties. In parallel, as part of the GAPS collaboration, I work on characterizing long-period sub-Neptunes, ideal for atmospheric studies, and measuring the masses of planets around young stars, combining photometric follow-up with high-precision RV campaigns.
-      </p>
-    </div>
-
-  </div>
+        <div>
+          <p>
+            Exoplanet research has reshaped our understanding of planetary systems, uncovering a vast diversity in their architectures and evolution. My work centers on the synergy between Radial Velocities (RVs) and Transit Timing Variations (TTVs) to investigate planetary dynamics, mass distributions, and formation pathways.
+          </p>
+          <p>
+            I’ve studied tidal orbital decay in close-in planets, explored methods for detecting exomoons, and performed joint RV+TTV analyses to constrain the orbital configurations of multi-planet systems. To address the challenges of observing young stars, I also apply advanced stellar activity mitigation techniques to extract planetary signals from noisy RV datasets.
+          </p>
+          <p>
+            As PI of a CHEOPS GTO program (190 orbits, PR150089), I am currently measuring apsidal precession rates in eccentric hot Jupiters to probe their internal structure and tidal dissipation properties. In parallel, as part of the GAPS collaboration, I work on characterizing long-period sub-Neptunes, ideal for atmospheric studies, and measuring the masses of planets around young stars, combining photometric follow-up with high-precision RV campaigns.
+          </p>
+        </div>
+      </div>
 
     #design:
     #  columns: '2.0'
