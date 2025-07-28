@@ -29,8 +29,6 @@ featured: false
 image:
   caption: 'Image credit: '
   focal_point: Right
-  filename: 'marseille_talk.jpg'
-
 #links:
 #  - icon: twitter
 #    icon_pack: fab
