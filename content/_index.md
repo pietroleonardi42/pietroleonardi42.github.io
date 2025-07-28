@@ -37,6 +37,7 @@ sections:
       subtitle: ''
       text: |-
         ![Alt text](research_plot.jpg "A perfect Sunset by Axel Astro, 2021")
+          <img src="/media/research-plot.png" alt="Research Image" style="width: 35%; max-width: 300px; border-radius: 8px;">
           Exoplanet research has reshaped our understanding of planetary systems, uncovering a vast diversity in their architectures and evolution. My work centers on the synergy between Radial Velocities (RVs) and Transit Timing Variations (TTVs) to investigate planetary dynamics, mass distributions, and formation pathways.
 
           I’ve studied tidal orbital decay in close-in planets, explored methods for detecting exomoons, and performed joint RV+TTV analyses to constrain the orbital configurations of multi-planet systems. To address the challenges of observing young stars, I also apply advanced stellar activity mitigation techniques to extract planetary signals from noisy RV datasets.
