@@ -33,13 +33,13 @@ sections:
   - block: markdown
     id: research
     content:
-      title: '📚-🪐 My Research'
+      title: '📚+🪐: My Research'
       subtitle: ''
       text: |-
         <div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
 
         <div style="flex: 1; min-width: 250px;">
-          ![](/media/research_plot.jpg "A perfect Sunset by Axel Astro")
+          ![](research_plot.jpg "A perfect Sunset by Axel Astro")
         </div>
 
         <div style="flex: 2; min-width: 300px;">
