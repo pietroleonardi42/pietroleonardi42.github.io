@@ -30,7 +30,12 @@ sections:
           size: cover
           position: center
           parallax: false
-text: |-
+  - block: markdown
+    id: research
+    content:
+      title: '📚-🪐 My Research'
+      subtitle: ''
+      text: |-
   <div style="display: flex; align-items: center; gap: 2rem;">
 
     <img src="/media/research-plot.png" alt="Research Image" style="width: 35%; max-width: 300px; border-radius: 8px;">
@@ -46,7 +51,8 @@ text: |-
         As PI of a CHEOPS GTO program (190 orbits, PR150089), I am currently measuring apsidal precession rates in eccentric hot Jupiters to probe their internal structure and tidal dissipation properties. In parallel, as part of the GAPS collaboration, I work on characterizing long-period sub-Neptunes, ideal for atmospheric studies, and measuring the masses of planets around young stars, combining photometric follow-up with high-precision RV campaigns.
       </p>
     </div>
-</div>
+
+  </div>
 
     #design:
     #  columns: '2.0'
