@@ -51,11 +51,10 @@ sections:
         image:
           filename: research_plot.jpg
           filters:
-            brightness: 0.75
+            brightness: 0.85
           size: cover
           position: center
           parallax: false
-          caption: Image credit: “A Perfect Sunset” by Axel Astro, 2021.
   #- block: collection
   #  id: papers
   #  content:
@@ -91,7 +90,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent Talks Presentations
+      title: Recent & Upcoming Talks
       filters:
         folders:
           - event
