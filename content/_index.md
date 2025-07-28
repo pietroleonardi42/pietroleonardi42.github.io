@@ -51,7 +51,7 @@ sections:
         image:
           filename: research_plot.jpg
           filters:
-            brightness: 0.85
+            brightness: 0.75
           size: cover
           position: center
           parallax: false
@@ -90,7 +90,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent Talks Presentations
       filters:
         folders:
           - event
