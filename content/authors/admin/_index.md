@@ -56,7 +56,7 @@ education:
     date_start: 2022-11-01
     date_end: '2025-10-31'
     summary: |
-      Preliminary thesis title: 
+      Thesis title: 
       Characterization of exoplanetary systems through transit timing techniques and Radial velocities: from secular perturbations to resonant chains 
       
       Supervised by Prof. Giampaolo Piotto, Dr. Luca Borsato and Dr. Valerio Nascimbeni.
