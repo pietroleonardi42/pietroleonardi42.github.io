@@ -34,10 +34,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-#url_code: 'https://github.com'
-#url_pdf: ''
+url_code: ''
+url_pdf: ''
 url_slides: 'https://plato-esp2025.sciencesconf.org/data/pages/PLATOESP2025_Pietro_Leonardi.pdf'
-#url_video: 'https://youtube.com'
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
