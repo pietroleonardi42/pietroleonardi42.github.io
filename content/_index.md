@@ -93,7 +93,7 @@ sections:
       title: Recent Talks Presentations
       filters:
         folders:
-          - event
+          - Talks
     design:
       view: article-grid
       columns: 1
