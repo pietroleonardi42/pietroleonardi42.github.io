@@ -42,6 +42,7 @@ sections:
 
           As PI of a CHEOPS GTO program (190 orbits, PR150089), I am currently measuring apsidal precession rates in eccentric hot Jupiters to probe their internal structure and tidal dissipation properties. In parallel, as part of the GAPS collaboration, I work on characterizing long-period sub-Neptunes, ideal for atmospheric studies, and measuring the masses of planets around young stars, combining photometric follow-up with high-precision RV campaigns.
     design:
+      columns: '3'
       css_class: fullwidth-text dark
       background:
         image:
