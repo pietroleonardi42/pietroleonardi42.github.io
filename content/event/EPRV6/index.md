@@ -1,5 +1,6 @@
 ---
-title: Navigating the V1298Tau Maze Revising Planetary Masses and Orbital Architecture of an infant system
+title: Navigating the V1298Tau Maze 
+subtitle: Revising Planetary Masses and Orbital Architecture of an infant system
 
 event: The Sixth Workshop on Extremely Precise Radial Velocities (EPRV 6)
 event_url: https://www.iastro.pt/research/conferences/eprv6/
