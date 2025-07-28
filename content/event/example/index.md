@@ -53,7 +53,7 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects:
   - example
-
+---
 
 #{{% callout note %}}
 #Click on the **Slides** button above to view the built-in slides feature.
@@ -66,4 +66,3 @@ projects:
 #- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
 #Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
----
