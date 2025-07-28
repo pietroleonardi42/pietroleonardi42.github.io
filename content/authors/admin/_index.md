@@ -45,9 +45,10 @@ profiles:
 
 interests:
   - Exoplanetary Systems
-  - Secular Timing effects
   - Transit Timing Variations (TTVs)
   - Radial Velocities (RVs)
+  - Secular Timing effects
+
 
 education:
   - area: PhD in Space Science and Technology
@@ -56,57 +57,57 @@ education:
     date_end: '2025-10-31'
     summary: |
       Preliminary thesis title: 
-      Characterization of exoplanetary systems through transit timing techniques and Radial velocities: from secular perturbations to mass measurement 
+      Characterization of exoplanetary systems through transit timing techniques and Radial velocities: from secular perturbations to resonant chains 
       
-      Supervised by Prof. Giampaolo Piotto, Dr. Valerio Nascimbeni and Dr. Luca Borsato (http://groups.dfa.unipd.it/ESPG/).
+      Supervised by Prof. Giampaolo Piotto, Dr. Luca Borsato and Dr. Valerio Nascimbeni.
   - area: MSc in Astrophysics and Cosmology
     institution: Università degli studi di Padova
     date_start: 2019-10-01
     date_end: 2021-12-14
     summary: |
       Thesis on Ground-based follow-up of WASP-12b
-  - area: BSc in Astronomt
+  - area: BSc in Astronomy
     institution: Università di Bologna
     date_start: 2016-09-19
     date_end: 2019-09-19
-work:
-  - position: PhD Researcher
-    company_name: Università degli studi Padova - Università di Trento
-    company_url: https://www.unitn.it/phd-sst/
-    date_start: 2022-10-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - Conducting research on exoplanet timing techniques, focusing on transit time variations.
-      - Performing photometric and radial velocity analysis using TOPCAT, TRADES, and other tools.
-      - Collaborating on GAPS observations and photometric follow-up studies of young planetary systems.
+#work:
+#  - position: PhD Researcher
+#    company_name: Università degli studi Padova - Università di Trento
+#    company_url: https://www.unitn.it/phd-sst/
+#    date_start: 2022-10-01
+#    date_end: '2025-10-31'
+#    summary: |2-
+    #  Responsibilities include:
+    #  - Conducting research on exoplanet timing techniques, focusing on transit timing variations (TTVs).
+    #  - Performing photometric and radial velocity analysis using TOPCAT, TRADES, and other tools.
+    #  - Collaborating on GAPS observations and photometric follow-up studies of young planetary systems.
 
 # Skills
-skills:
-  - name: Research & Analytical Skills
-    items:
-      - name: Lightcurve Analysis
-        description: ''
-        percent: 90
-        icon: chart-line
-      - name: N-body Simulation
-        description: ''
-        percent: 80
-        icon: atom
-      - name: Photometric and Spectrosopic Data Reduction
-        description: ''
-        percent: 85
-        icon: database
-  - name: Programming Languages
-    items:
-      - name: Python
-        description: ''
-        percent: 75
-        icon: code-bracket
-      - name: R
-        description: ''
-        percent: 65
-        icon: code-r
+#skills:
+#  - name: Research & Analytical Skills
+#    items:
+#      - name: Lightcurve Analysis
+#        description: ''
+#        percent: 90
+#        icon: chart-line
+#      - name: N-body Simulation
+#        description: ''
+#        percent: 80
+#        icon: atom
+#      - name: Photometric and Spectrosopic Data Reduction
+#        description: ''
+#        percent: 85
+#        icon: database
+#  - name: Programming Languages
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 75
+#        icon: code-bracket
+#      - name: R
+#        description: ''
+#        percent: 65
+#        icon: code-r
 
 languages:
   - name: English
@@ -125,5 +126,4 @@ languages:
 
 ## Welcome!
 
-I am Pietro Leonardi, an Astrophysics PhD student at the University of Padua and University of Trento. My research focuses on the synergy between Transit Timing Variations (TTVs) and extreme precision Radial Velocities (RVs) to investigate exoplanetary system architectures and dynamical processes.
-As a CHEOPS collaborator, I am actively working on multi-planet systems and studying apsidal precession phenomena.
+I'm Pietro Leonardi, an Astrophysics PhD student at the University of Padua and University of Trento. My research focuses on exoplanets, particularly on the synergy between Transit Timing Variations (TTVs) and extreme precision Radial Velocities (RVs) to investigate the architectures and dynamical evolution of planetary systems.
