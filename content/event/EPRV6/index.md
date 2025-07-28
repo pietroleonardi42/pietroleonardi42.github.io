@@ -1,12 +1,12 @@
 ---
-title: Navigating the V1298Tau Maze  -- Revising Planetary Masses and Orbital Architecture of an infant system
+title: Navigating the V1298Tau Maze -- Revising Planetary Masses and Orbital Architecture of an infant system
 
 event: The Sixth Workshop on Extremely Precise Radial Velocities (EPRV 6)
 event_url: https://www.iastro.pt/research/conferences/eprv6/
 
 location: Porto
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: The Sixth Workshop on Extremely Precise Radial Velocities (EPRV 6)
 abstract: V1298 Tau is a young (20 ± 10 Myr), pre-main sequence K-type star hosting four transiting planets (David et al. 2019b), making it an exceptional laboratory for studying the early stages of planetary system evolution. An undisputed characterization of the system has remained elusive so far, including the measurements of the planetary masses, orbital architecture, and even the potential presence of additional planets. The current emerging picture suggest that V1298 Tau may host a system of sub-Neptune/super-Earth progenitors. We will present preliminary results from an intensive spectroscopic follow-up using almost 400 radial velocity measurements collected with HARPS-N@TNG as part of the GAPS programme. We performed a comparative analysis of radial velocities extracted with different extraction techniques, that we analysed using a novel approach based on N-body integrators coupled with Gaussian process regression to model the dominant contribution of the stellar activity. Additionally, we will report on an extensive ground- and space-based photometric follow-up campaign aimed at detecting transit timing variations (TTVs), which combined with RVs will help break the remaining degeneracies and provide a robust characterization of the planetary system. This study marks a significant step toward understanding the formation and evolution of the system V1298 Tau, and contributes to the broader understanding of young planetary systems at the very earliest stages after formation.
 
 # Talk start and end times.
