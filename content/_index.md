@@ -38,7 +38,7 @@ sections:
       text: |-
         <div style="display: flex; align-items: center; gap: 2rem;">
 
-        <img src="/media/research-plot.png" alt="Research Image" style="width: 35%; max-width: 300px; border-radius: 8px;">
+        <img src="research_plot.png" alt="Research Image" style="width: 35%; max-width: 300px; border-radius: 8px;">
 
         <div>
           <p>
