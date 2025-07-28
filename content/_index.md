@@ -36,7 +36,7 @@ sections:
       title: '📚+🪐: My Research'
       subtitle: ''
       text: |-
-          <div style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 3rem 2rem; background-color: rgba(0, 0, 0, 0.5); color: white;">
+          <div style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 3rem 2rem; background-color: rgba(0, 0, 0, 0.3); color: white;">
           Exoplanet research has reshaped our understanding of planetary systems, uncovering a vast diversity in their architectures and evolution. My work centers on the synergy between Radial Velocities (RVs) and Transit Timing Variations (TTVs) to investigate planetary dynamics, mass distributions, and formation pathways.
 
           I’ve studied tidal orbital decay in close-in planets, explored methods for detecting exomoons, and performed joint RV+TTV analyses to constrain the orbital configurations of multi-planet systems. To address the challenges of observing young stars, I also apply advanced stellar activity mitigation techniques to extract planetary signals from noisy RV datasets.
@@ -47,7 +47,7 @@ sections:
       css_class: fullwidth-text dark
       background:
         image:
-          filename: research_plot1.jpg
+          filename: research_plot.jpg
           filters:
             brightness: 0.85
           size: cover
