@@ -41,7 +41,7 @@ sections:
 
           I’ve studied tidal orbital decay in close-in planets, explored methods for detecting exomoons, and performed joint RV+TTV analyses to constrain the orbital configurations of multi-planet systems. To address the challenges of observing young stars, I also apply advanced stellar activity mitigation techniques to extract planetary signals from noisy RV datasets.
 
-          As a collaborator of the CHEOPS sciente team, I am currently working on the characterization of resonant multi-planet systems and the study of dynamical phenomena such as apsidal precession in eccentric hot Jupiters to probe their internal structure and tidal dissipation properties (OrbitalWALTZ program, PI: Leonardi, 190 orbits, PR150089).
+          As a collaborator of the CHEOPS science team, I am currently working on the characterization of resonant multi-planet systems and the study of dynamical phenomena such as apsidal precession in eccentric hot Jupiters to probe their internal structure and tidal dissipation properties (OrbitalWALTZ program, PI: Leonardi, 190 orbits, PR150089).
 
           In parallel, within the GAPS collaboration, I focus on characterizing long-period sub-Neptunes, prime targets for atmospheric studies, and on measuring the masses of planets around young stars, combining photometric follow-up with extreme-precision HARPS-N RV campaigns to understand their composition and early evolution.
 
