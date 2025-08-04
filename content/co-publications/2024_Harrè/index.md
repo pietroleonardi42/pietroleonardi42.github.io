@@ -10,7 +10,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2024-12-17T00:00:00Z"
-doi: "https://doi.org/10.1051/0004-6361/202451068" 
+doi: "10.1051/0004-6361/202451068" 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
