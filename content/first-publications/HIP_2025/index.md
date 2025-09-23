@@ -1,5 +1,5 @@
 ---
-title: " Transit timing variations in HIP 41378: CHEOPS and TESS confirm a non-transiting sixth planet in the system⋆ "
+title: " Transit timing variations in HIP 41378: CHEOPS and TESS confirm a non-transiting sixth planet in the system"
 authors:
 - admin
 - et al.
@@ -45,10 +45,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**NASA**](http://hubblesite.org/newscenter/archive/releases/2010/15/)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**NASA**](http://hubblesite.org/newscenter/archive/releases/2010/15/)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
