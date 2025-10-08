@@ -49,14 +49,14 @@ sections:
     design:
       columns: '3'
       css_class: fullwidth-text dark
-      background:
-        image:
-          filename: research_plot.jpg
-          filters:
-            brightness: 0.75
-          size: cover
-          position: center
-          parallax: false
+      #background:
+      #  image:
+      #    filename: research_plot.jpg
+      #    filters:
+      #      brightness: 0.75
+      #    size: cover
+      #    position: center
+      #    parallax: false
   #- block: collection
   #  id: papers
   #  content:
