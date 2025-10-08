@@ -33,7 +33,7 @@ sections:
   - block: markdown
     id: research
     content:
-      title: '📚+🪐: My Research'
+      title: '📚 + 🔭: My Research'
       subtitle: ''
       text: |-
           <div style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 3rem 2rem; background-color: rgba(0, 0, 0, 0.3); color: white;">
@@ -44,8 +44,6 @@ sections:
           As a collaborator of the CHEOPS science team, I am currently working on the characterization of resonant multi-planet systems and the study of dynamical phenomena such as apsidal precession in eccentric hot Jupiters to probe their internal structure and tidal dissipation properties (OrbitalWALTZ program, PI: Leonardi, 190 orbits, PR150089).
 
           In parallel, within the GAPS collaboration, I focus on characterizing long-period sub-Neptunes, prime targets for atmospheric studies, and on measuring the masses of planets around young stars, combining photometric follow-up with extreme-precision HARPS-N RV campaigns to understand their composition and early evolution.
-
-          Image credit: “A Perfect Sunset” by Axel Astro, 2021.
     design:
       columns: '3'
       css_class: fullwidth-text dark
