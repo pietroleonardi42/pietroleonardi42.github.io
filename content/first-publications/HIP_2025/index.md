@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Astronomy & Astrophysics, Accepted: 11 September 2025"
+publication: "Astronomy & Astrophysics, 702, A211 (2025)"
 publication_short: ""
 
 abstract: 
