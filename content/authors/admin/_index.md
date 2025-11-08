@@ -42,6 +42,8 @@ profiles:
     url: https://scholar.google.com/citations?user=6IvRt_QAAAAJ&hl=it
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-6026-9202
+  - icon: academicons/ads
+    url: https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=orcid%3A0000-0001-6026-9202&sort=date%20desc%2C%20bibcode%20desc
 
 interests:
   - Exoplanetary Systems
