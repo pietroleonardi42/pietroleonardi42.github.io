@@ -51,6 +51,11 @@ interests:
   - Radial Velocities (RVs)
   - Secular Timing effects
 
+Research:
+  - area: Postdoctoral Fellowship
+    institution: Università degli studi di Padova
+    date_start: 2026-02-01
+    date_end: Present
 
 education:
   - area: PhD in Space Science and Technology
@@ -59,7 +64,7 @@ education:
     date_end: '2025-10-31'
     summary: |
       Thesis title: 
-      Characterization of exoplanetary systems through transit timing techniques and Radial velocities: from secular perturbations to resonant chains 
+      Characterization of exoplanetary systems through transit timing techniques and Radial velocities: from secular perturbations to resonant chains
       
       Supervised by Prof. Giampaolo Piotto, Dr. Luca Borsato and Dr. Valerio Nascimbeni.
   - area: MSc in Astrophysics and Cosmology
@@ -128,4 +133,4 @@ languages:
 
 ## Welcome!
 
-I'm Pietro Leonardi, an Astrophysics PhD student at the University of Padua and University of Trento. My research focuses on studying exoplanets, particularly on the synergy between Transit Timing Variations (TTVs) and extreme precision Radial Velocities (RVs) to investigate the architectures and dynamical evolution of planetary systems.
+I'm Pietro Leonardi, an Astrophysics postdoctoral fellow at the University of Padua. My research focuses on studying exoplanets, particularly on the synergy between Transit Timing Variations (TTVs) and extreme precision Radial Velocities (RVs) to investigate the architectures and dynamical evolution of planetary systems.
