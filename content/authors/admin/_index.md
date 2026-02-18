@@ -24,7 +24,7 @@ role: Postdoc
 
 # Organizations/Affiliations to display in Biography block
 organizations:
-  - name: Università degli studi di Padova - #Università di Trento
+  - name: Università degli studi di Padova #Università di Trento
   #  url: https://www.unitn.it/phd-sst/
 
 # Social network links
