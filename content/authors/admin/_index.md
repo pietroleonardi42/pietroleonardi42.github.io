@@ -24,7 +24,7 @@ role: Postdoc
 
 # Organizations/Affiliations to display in Biography block
 organizations:
-  - name: Università degli studi di Padova #Università di Trento
+  - name: Università di Padova #Università di Trento
   #  url: https://www.unitn.it/phd-sst/
 
 # Social network links
@@ -59,7 +59,7 @@ Research:
 
 education:
   - area: PhD in Space Science and Technology
-    institution: Università degli studi di Padova - Universitò di Trento
+    institution: Università di Padova - Universitò di Trento
     date_start: 2022-11-01
     date_end: '2025-10-31'
     summary: |
@@ -68,7 +68,7 @@ education:
       
       Supervised by Prof. Giampaolo Piotto, Dr. Luca Borsato and Dr. Valerio Nascimbeni.
   - area: MSc in Astrophysics and Cosmology
-    institution: Università degli studi di Padova
+    institution: Università di Padova
     date_start: 2019-10-01
     date_end: 2021-12-14
     summary: |
