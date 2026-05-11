@@ -59,7 +59,7 @@ Research:
 
 education:
   - area: PhD in Space Science and Technology
-    institution: Università di Padova - Universitò di Trento
+    institution: Università di Padova - Università di Trento
     date_start: 2022-11-01
     date_end: '2025-10-31'
     summary: |
@@ -133,4 +133,4 @@ languages:
 
 ## Welcome!
 
-I'm Pietro Leonardi, an Astrophysics postdoctoral fellow at the University of Padua. My research focuses on studying exoplanets, particularly on the synergy between Transit Timing Variations (TTVs) and extreme precision Radial Velocities (RVs) to investigate the architectures and dynamical evolution of planetary systems.
+I'm Pietro Leonardi, an Astrophysics postdoctoral fellow at the University of Padua. My research focuses on studying exoplanets, particularly on exploiting the synergy between Transit Timing Variations (TTVs) and extreme precision Radial Velocities (RVs) to investigate the architectures and dynamical evolution of planetary systems.
