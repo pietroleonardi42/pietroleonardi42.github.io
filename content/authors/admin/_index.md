@@ -133,4 +133,4 @@ languages:
 
 ## Welcome!
 
-I'm Pietro Leonardi, an Astrophysics postdoctoral fellow at the University of Padua. My research focuses on studying exoplanets, particularly on exploiting the synergy between Transit Timing Variations (TTVs) and extreme precision Radial Velocities (RVs) to investigate the architectures and dynamical evolution of planetary systems.
+I'm Pietro Leonardi, an Astrophysics postdoctoral fellow at the University of Padova. My research focuses on studying exoplanets, particularly on exploiting the synergy between Transit Timing Variations (TTVs) and extreme precision Radial Velocities (RVs) to investigate the architectures and dynamical evolution of planetary systems.
