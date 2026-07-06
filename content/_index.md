@@ -79,7 +79,7 @@ sections:
       view: citation
   - block: collection
     content:
-      title: Co-author Publications
+      title: Main Co-author Publications
       text: ""
       filters:
         folders:
