@@ -30,7 +30,7 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:pietro.leonardi.1@studenti.unipd.it'
+    url: 'mailto:pietro.leonardi@unipd.it'
     label: E-mail Me
   #- icon: brands/x
   #  url: https://twitter.com/YourTwitterHandle
