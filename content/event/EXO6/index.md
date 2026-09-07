@@ -36,7 +36,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://doi.org/10.5281/zenodo.21217223'
 url_video: ''
 
 # Markdown Slides (optional).
