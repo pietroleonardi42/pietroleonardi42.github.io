@@ -80,13 +80,13 @@ education:
 work:
   - position: Postdoc Researcher
     company_name: Space Research Institute, Austrian Academy of Sciences
-    date_start: 2026-09
+    date_start: 2026-09-15
 
   - position: Postdoc Researcher
     company_name: Università degli studi Padova #Università di Trento
 #    company_url: https://www.unitn.it/phd-sst/
-    date_start: 2026-02
-    date_end: '2026-09'
+    date_start: 2026-02-01
+    date_end: '2026-09-01'
 #    summary: |2-
     #  Responsibilities include:
     #  - Conducting research on exoplanet timing techniques, focusing on transit timing variations (TTVs).
