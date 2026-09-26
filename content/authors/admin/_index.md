@@ -24,7 +24,7 @@ role: Postdoc
 
 # Organizations/Affiliations to display in Biography block
 organizations:
-  - name: Università di Padova #Università di Trento
+  - name: Space Research Institute, Austrian Academy of Sciences #Università di Padova #Università di Trento
   #  url: https://www.unitn.it/phd-sst/
 
 # Social network links
@@ -77,12 +77,15 @@ education:
     institution: Università di Bologna
     date_start: 2016-09-19
     date_end: 2019-09-19
-#work:
-#  - position: PhD Researcher
-#    company_name: Università degli studi Padova - Università di Trento
+work:
+  - position: Postdoc Researcher
+    company_name: Space Research Institute, Austrian Academy of Sciences
+    
+  - position: Postdoc Researcher
+    company_name: Università degli studi Padova #Università di Trento
 #    company_url: https://www.unitn.it/phd-sst/
-#    date_start: 2022-10-01
-#    date_end: '2025-10-31'
+    date_start: 2026-02-01
+    date_end: '2026-09-30'
 #    summary: |2-
     #  Responsibilities include:
     #  - Conducting research on exoplanet timing techniques, focusing on transit timing variations (TTVs).
