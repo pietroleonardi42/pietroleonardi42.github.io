@@ -83,7 +83,7 @@ work:
     date_start: 2026-09-15
 
   - position: Postdoc Researcher
-    company_name: Università degli studi Padova #Università di Trento
+    company_name: Università di Padova #Università di Trento
 #    company_url: https://www.unitn.it/phd-sst/
     date_start: 2026-02-01
     date_end: '2026-09-01'
