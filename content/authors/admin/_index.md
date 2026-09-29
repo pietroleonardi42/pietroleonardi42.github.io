@@ -78,11 +78,11 @@ education:
     date_start: 2016-09-19
     date_end: 2019-09-19
 work:
-  - position: Postdoc Researcher
+  - position: Postdoctoral Researcher
     company_name: Space Research Institute, Austrian Academy of Sciences
     date_start: 2026-09-15
 
-  - position: Postdoc Researcher
+  - position: Postdoctoral Researcher
     company_name: Università di Padova #Università di Trento
 #    company_url: https://www.unitn.it/phd-sst/
     date_start: 2026-02-01
