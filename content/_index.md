@@ -77,16 +77,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    content:
-      title: Main Co-author Publications
-      text: ""
-      filters:
-        folders:
-          - co-publications
-        exclude_featured: false
-    design:
-      view: citation
+  #- block: collection
+  #  content:
+  #    title: Main Co-author Publications
+  #    text: ""
+  #    filters:
+  #      folders:
+  #        - co-publications
+  #      exclude_featured: false
+  #  design:
+  #    view: citation
   - block: collection
     id: talks
     content:
