@@ -6,7 +6,10 @@
 # Appearance
 appearance:
   mode: dark
-  color: emerald
+  #color: emerald
+header:
+  navbar:
+    show_day_night: false   # hides the sun/moon toggle
 
 # SEO
 marketing:
