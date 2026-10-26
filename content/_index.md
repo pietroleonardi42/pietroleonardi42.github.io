@@ -33,7 +33,7 @@ sections:
   - block: markdown
     id: research
     content:
-      title: '📚 + 🔭: My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
           <div style="width: 100vw; margin-left: calc(-50vw + 50%); padding: 3rem 2rem; background-color: rgba(0, 0, 0, 0.3); color: white;">
