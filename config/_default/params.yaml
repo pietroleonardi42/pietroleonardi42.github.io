@@ -7,9 +7,6 @@
 appearance:
   mode: dark
   #color: emerald
-header:
-  navbar:
-    show_day_night: false   # hides the sun/moon toggle
 
 # SEO
 marketing:
@@ -36,7 +33,8 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: true
+    show_theme_chooser: false
+    #    show_day_night: false   # hides the sun/moon toggle
     logo:
       text: "Pietro Leonardi"
 
